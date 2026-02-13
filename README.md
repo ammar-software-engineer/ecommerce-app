@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,54 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# E-commerce App
+
+A mobile e-commerce application built with React Native and Expo.
+
+## Features
+
+- User authentication
+- Product listing and search
+- Shopping cart functionality
+- Order placement and history
+
+## Technologies Used
+
+- React Native
+- Expo
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ammar-software-engineer/ecommerce-app.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd ecommerce-app
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+4. Start the Expo development server:
+
+```bash
+npm start
+# or
+yarn start
+```
+
+5. Scan the QR code with the Expo Go app on your mobile device to run the app.
+>>>>>>> 83115db66c55c99be768a85f52aec705f7edf3ef
